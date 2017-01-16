@@ -1,0 +1,9 @@
+[
+    {
+        "tab"                         : "Top Items List",
+        "key"                         : "topitems.text",
+        "label"                       : "Topitems text",
+        "type"                        : "text",
+        "default"                     : "This is a placeholder"
+    }
+]
